@@ -8,18 +8,26 @@ This Repository contains my solutions to Dynamic Programming I study plan on Lee
 
 ## Solutions
 ### Day 1
-* <a href="https://github.com/michaelehab/LeetCode-Dynamic-Programming-I/blob/main/Day1/509.Fibonacci-Number.cpp">Fibonacci Number</a>
-* <a href="https://github.com/michaelehab/LeetCode-Dynamic-Programming-I/blob/main/Day1/1137.N-th-Tribonacci-Number.cpp">N-th Tribonacci Number</a>
+* <a href="./Day1/509.Fibonacci-Number.cpp">Fibonacci Number</a>
+* <a href="./Day1/1137.N-th-Tribonacci-Number.cpp">N-th Tribonacci Number</a>
 
 ### Day 2
-* <a href="https://github.com/michaelehab/LeetCode-Dynamic-Programming-I/blob/main/Day2/70.Climbing-Stairs.cpp">Climbing Stairs</a>
-* <a href="https://github.com/michaelehab/LeetCode-Dynamic-Programming-I/blob/main/Day2/746.Min-Cost-Climbing-Stairs.cpp">Min Cost Climbing Stairs</a>
+* <a href="./Day2/70.Climbing-Stairs.cpp">Climbing Stairs</a>
+* <a href="./Day2/746.Min-Cost-Climbing-Stairs.cpp">Min Cost Climbing Stairs</a>
 
 ### Day 3
-* <a href="https://github.com/michaelehab/LeetCode-Dynamic-Programming-I/blob/main/Day3/198.House-Robber.cpp">House Robber</a>
-* <a href="https://github.com/michaelehab/LeetCode-Dynamic-Programming-I/blob/main/Day3/213.House-Robber-II.cpp">House Robber II</a>
-* <a href="https://github.com/michaelehab/LeetCode-Dynamic-Programming-I/blob/main/Day3/740.Delete-and-Earn.cpp">Delete and Earn</a>
+* <a href="./Day3/198.House-Robber.cpp">House Robber</a>
+* <a href="./Day3/213.House-Robber-II.cpp">House Robber II</a>
+* <a href="./Day3/740.Delete-and-Earn.cpp">Delete and Earn</a>
 
 ### Day 4
-* <a href="https://github.com/michaelehab/LeetCode-Dynamic-Programming-I/blob/main/Day4/55.Jump-Game.cpp">Jump Game</a>
-* <a href="https://github.com/michaelehab/LeetCode-Dynamic-Programming-I/blob/main/Day4/45.Jump-Game-II.cpp">Jump Game II<a/>
+* <a href="./Day4/55.Jump-Game.cpp">Jump Game</a>
+* <a href="./Day4/45.Jump-Game-II.cpp">Jump Game II</a>
+
+### Day 5
+* <a href="./Day5/53.Maximum-Subarrayy.cpp">Maximum Subarray</a>
+* <a href="./Day5/918.Maximum-Sum-Circular-Subarray.cpp">Maximum Sum Circular Subarray</a>
+
+### Day 6
+* <a href="./Day6/152.Maximum-Product-Subarray.cpp">Maximum Product Subarray</a>
+* <a href="./Day6/1567.Maximum-Length-of-Subarray-With-Positive-Product.cpp">Maximum Length of Subarray With Positive Product</a>
