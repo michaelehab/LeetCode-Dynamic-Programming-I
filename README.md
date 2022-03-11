@@ -31,3 +31,12 @@ This Repository contains my solutions to Dynamic Programming I study plan on Lee
 ### Day 6
 * <a href="./Day6/152.Maximum-Product-Subarray.cpp">Maximum Product Subarray</a>
 * <a href="./Day6/1567.Maximum-Length-of-Subarray-With-Positive-Product.cpp">Maximum Length of Subarray With Positive Product</a>
+
+### Day 7
+* <a href="./Day7/1014.Best-Sightseeing-Pair.cpp">Best Sightseeing Pair</a>
+* <a href="./Day7/121.Best-Time-to-Buy-and-Sell-Stock.cpp">Best Time to Buy and Sell Stock</a>
+* <a href="./Day7/122. Best Time to Buy and Sell Stock II">Best Time to Buy and Sell Stock II</a>
+
+### Day 8
+* <a href="./Day8/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.cpp">Best Time to Buy and Sell Stock with Cooldown</a>
+* <a href="./Day8/714.Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.cpp">Best Time to Buy and Sell Stock with Transaction Fee</a>
