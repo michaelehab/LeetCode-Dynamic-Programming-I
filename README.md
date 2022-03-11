@@ -40,3 +40,15 @@ This Repository contains my solutions to Dynamic Programming I study plan on Lee
 ### Day 8
 * <a href="./Day8/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.cpp">Best Time to Buy and Sell Stock with Cooldown</a>
 * <a href="./Day8/714.Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.cpp">Best Time to Buy and Sell Stock with Transaction Fee</a>
+
+### Day 9
+* <a href="./Day9/139.Word-Break.cpp">Word Break</a>
+* <a href="./Day9/42.Trapping-Rain-Water.cpp">Trapping Rain Water</a>
+
+### Day 10
+* <a href="./Day10/413.Arithmetic-Slices.cpp">Arithmetic Slices</a>
+* <a href="./Day10/91.Decode-Ways.cpp">Decode Ways</a>
+
+### Day 11
+* <a href="./Day11/264.Ugly-Number-II.cpp">Ugly Number II</a>
+* <a href="./Day11/96.Unique-Binary-Search-Trees.cpp">Unique Binary Search Trees</a>
