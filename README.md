@@ -52,3 +52,19 @@ This Repository contains my solutions to Dynamic Programming I study plan on Lee
 ### Day 11
 * <a href="./Day11/264.Ugly-Number-II.cpp">Ugly Number II</a>
 * <a href="./Day11/96.Unique-Binary-Search-Trees.cpp">Unique Binary Search Trees</a>
+
+### Day 12
+* <a href="./Day12/118.Pascal's-Triangle.cpp">Pascal's Triangle</a>
+* <a href="./Day12/119.Pascal's-Triangle-II.cpp">Pascal's Triangle II</a>
+
+### Day 13
+* <a href="./Day13/120.Triangle.cpp">Triangle</a>
+* <a href="./Day13/931.Minimum-Falling-Path-Sum.cpp">Minimum Falling Path Sum</a>
+
+### Day 14
+* <a href="./Day14/1314.Matrix-Block-Sum.cpp">Matrix Block Sum</a>
+* <a href="./Day14/304.Range-Sum-Query-2D-Immutable.cpp">Range Sum Query 2D Immutable</a>
+
+### Day 15
+* <a href="./Day15/62.Unique-Paths.cpp">Unique Paths</a>
+* <a href="./Day15/63.Unique-Paths-II.cpp">Unique Paths II</a>
