@@ -68,3 +68,15 @@ This Repository contains my solutions to Dynamic Programming I study plan on Lee
 ### Day 15
 * <a href="./Day15/62.Unique-Paths.cpp">Unique Paths</a>
 * <a href="./Day15/63.Unique-Paths-II.cpp">Unique Paths II</a>
+
+### Day 16
+* <a href="./Day16/64.Minimum-Path-Sum.cpp">Minimum Path Sum</a>
+* <a href="./Day16/221.Maximal-Square.cpp">Maximal Square</a>
+
+### Day 17
+* <a href="./Day17/5.Longest-Palindromic-Substring.cpp">Longest Palindromic Substring</a>
+* <a href="./Day17/516.Longest-Palindromic-Subsequence.cpp">Longest Palindromic Subsequence</a>
+
+### Day 18
+* <a href="./Day18/300.Longest-Increasing-Subsequence.cpp">Longest Increasing Subsequence</a>
+* <a href="./Day18/376.Wiggle-Subsequence.cpp">Wiggle Subsequence</a>
