@@ -80,3 +80,17 @@ This Repository contains my solutions to Dynamic Programming I study plan on Lee
 ### Day 18
 * <a href="./Day18/300.Longest-Increasing-Subsequence.cpp">Longest Increasing Subsequence</a>
 * <a href="./Day18/376.Wiggle-Subsequence.cpp">Wiggle Subsequence</a>
+
+### Day 19
+* <a href="./Day19/392.Is-Subsequence.cpp">Is Subsequence</a>
+* <a href="./Day19/1143.Longest-Common-Subsequence.cpp">Longest Common Subsequence</a>
+* <a href="./Day19/72.Edit-Distance.cpp">Edit Distance</a>
+
+### Day 20
+* <a href="./Day20/322.Coin-Change.cpp">Coin Change</a>
+* <a href="./Day20/518.Coin-Change-2.cpp">Coin Change 2</a>
+
+### Day 21
+* <a href="./Day21/377.Combination-Sum-IV.cpp">Combination Sum IV</a>
+* <a href="./Day21/343.Integer-Break.cpp">Integer Break</a>
+* <a href="./Day21/279.Perfect-Squares.cpp">Perfect Squares</a>
