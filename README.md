@@ -35,7 +35,7 @@ This Repository contains my solutions to Dynamic Programming I study plan on Lee
 ### Day 7
 * <a href="./Day7/1014.Best-Sightseeing-Pair.cpp">Best Sightseeing Pair</a>
 * <a href="./Day7/121.Best-Time-to-Buy-and-Sell-Stock.cpp">Best Time to Buy and Sell Stock</a>
-* <a href="./Day7/122. Best Time to Buy and Sell Stock II">Best Time to Buy and Sell Stock II</a>
+* <a href="./Day7/122.Best-Time-to Buy-and-Sell-Stock-II.cpp">Best Time to Buy and Sell Stock II</a>
 
 ### Day 8
 * <a href="./Day8/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.cpp">Best Time to Buy and Sell Stock with Cooldown</a>
